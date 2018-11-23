@@ -1,0 +1,9 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+release_tasks-*.tar
+tags
