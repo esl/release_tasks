@@ -22,7 +22,7 @@ defmodule ReleaseTasks.MixProject do
   defp deps do
     [
       {:confex, "~> 3.3.1"},
-      {:ecto, "~> 2.2"}
+      {:ecto, "~> 3.3"}
     ]
   end
 end
