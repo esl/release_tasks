@@ -21,7 +21,7 @@ defmodule ReleaseTasks.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:confex, "~> 3.3.1"},
+      {:confex, "~> 3.5.0"},
       {:ecto, "~> 2.2"}
     ]
   end
